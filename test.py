@@ -1,3 +1,3 @@
 print("Hello, World!")
-print("we tested git push"
-print"checking pull New")
+print("we tested git push")
+print("checking pull New")
